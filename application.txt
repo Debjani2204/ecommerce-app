@@ -61,3 +61,11 @@ Payment Timeout Handling
 Payment Timeout Hotfix
 - Timed-out payments are clearly identified.
 - Customers receive a retry option when payment processing times out.
+
+Order Reports
+- Order reports can be generated.
+- Order information can be summarized for review.
+
+Customer Reviews
+- Customers can submit reviews for purchased products.
+- Customers can view reviews submitted by other customers.
